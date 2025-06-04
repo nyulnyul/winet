@@ -1,4 +1,6 @@
 streamlit
 pandas
-scikit-learn==1.4.2 
+numpy==2.2.0          # 3.13 wheel 존재
+scipy==1.13.0         # 3.13 wheel 존재
+scikit-learn==1.5.dev0  # 3.13 nightly wheel (정식 1.5 나오면 교체)
 joblib
